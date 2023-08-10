@@ -1,0 +1,82 @@
+.content{
+    width: 700px;
+    height: 700px;
+ 
+    margin-left: auto;
+    margin-right: auto;
+    background-image: url("pexels-nomad-ashwin-16203829.jpg");
+    background-size:cover;
+    background-repeat: no-repeat;
+  
+
+
+}
+.logo{
+    text-align: center;
+    display: flex;
+    align-items: center;
+    height: 150px;
+    padding-left: 90px;
+}
+
+
+.list-items{
+ padding-top: 10px;
+ padding-left: 10px; 
+margin-left:auto;
+margin-right: auto;
+margin-bottom: 30px;
+    border: 5px solid #bb976a;
+    width: 500px;
+    height: 500px;
+    border-radius: 80px 0 80px 0;
+ 
+    /* list-style-image: url("pngwing.com (15).png"); */
+    
+}
+
+.list-items ul li{
+    color: #fff;
+    font-size: 24px;
+}
+.content span{
+    color: #fff;
+
+    margin-left: 20px;
+   
+}
+
+.content h2{
+text-align: center;
+    color: #bb976a;
+ padding-top: 15px;
+    font-size: 70px;
+    margin-bottom: 40px;
+ 
+}
+
+#lis{
+    color: #bb976a;
+    font-weight: bold;
+}
+
+table{
+    width: 500px;
+    height:400px;
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #111;
+    color: #fff;
+    
+}
+
+table td ,th{
+    border: 2px solid #bb976a;
+    text-align: center;
+ 
+}
+
+table th{
+padding: 15px;
+}
